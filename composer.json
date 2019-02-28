@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\Auth\\": ""
+            "Royalcms\\Component\\Auth\\": "Royalcms/Component/Auth"
         }
     },
     "extra": {
